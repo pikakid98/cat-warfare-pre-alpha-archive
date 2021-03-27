@@ -1,5 +1,3 @@
-## Cat Warfare Pre-Alpha Archive
-
 #### [![home](https://user-images.githubusercontent.com/12392651/112508415-6c2e3100-8d87-11eb-94ca-bb03740379c3.png)](https://pikakid98.github.io/)
 
 [![learnmore](https://user-images.githubusercontent.com/12392651/112508434-718b7b80-8d87-11eb-8a92-76ea8a6ab179.png)](https://store.steampowered.com/app/923370) [![download](https://user-images.githubusercontent.com/12392651/112508863-d6df6c80-8d87-11eb-8ec8-52e31522e1c5.png)](https://pikakid98.github.io/cat-warfare-pre-alpha-archive/download
